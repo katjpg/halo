@@ -1,0 +1,14 @@
+optimizer:
+  samples: 5
+
+agents:
+  roles:
+    optimizer:
+      model: gpt-6.1-terra
+      max_tokens: 2048
+      reasoning_effort: none
+
+server:
+  log_level: INFO
+  cors_origins:
+    - http://localhost:3000
