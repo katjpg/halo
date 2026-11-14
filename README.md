@@ -9,8 +9,6 @@ Youngseung Jeon, Kat Limqueco, JiaSyuan Chang, Xiang 'Anthony' Chen
 
 ## Overview
 
-## Overview
-
 Molecular lead optimization requires medicinal chemists to navigate a vast search space while balancing competing property objectives. Although generative models can propose novel molecular analogs, evaluating trade-offs and deciding which structural modifications to pursue remain challenging.
 
 We introduce **HALO**, an interactive system that supports **human–AI co-abductive reasoning** in molecular hypothesis generation. HALO helps chemists (1) compare generated analogs across competing property objectives, (2) discover molecular editing strategies from recurring structural and property relationships, and (3) synthesize and refine these strategies into new molecular hypotheses.
